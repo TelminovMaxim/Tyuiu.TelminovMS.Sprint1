@@ -7,7 +7,6 @@ namespace Tyuiu.TelminovMS.Sprint1.Task1.V5.Lib
         public double Calculate(double x, double y)
         {
             return 5 + (x * y / 3);
-
         }
     }
 }

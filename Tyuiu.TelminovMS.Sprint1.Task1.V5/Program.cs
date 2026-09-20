@@ -34,7 +34,6 @@ namespace Tyuiu.TelminovMS.Sprint1.Task1.V5
             Console.WriteLine("Введите значение Y:");
             y = Convert.ToDouble(Console.ReadLine());
 
-
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
