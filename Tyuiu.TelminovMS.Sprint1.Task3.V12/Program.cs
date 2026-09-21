@@ -35,7 +35,7 @@ namespace Tyuiu.TelminovMS.Sprint1.Task3.V12
             var res = ds.TriangleArea(lengthCathetus1, lengthCathetus2);
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine($"Площадь прямоугольного треугольника: {res}");
 

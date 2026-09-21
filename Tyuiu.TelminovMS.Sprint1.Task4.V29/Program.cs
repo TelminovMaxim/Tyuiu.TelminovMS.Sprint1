@@ -33,7 +33,7 @@ namespace Tyuiu.TelminovMS.Sprint1.Task4.V29
             y = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             var res = ds.Calculate(x, y);
             Console.WriteLine($"Результат: {res}");
