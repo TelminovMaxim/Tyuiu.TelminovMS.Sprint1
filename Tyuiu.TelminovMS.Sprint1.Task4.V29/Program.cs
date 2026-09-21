@@ -11,7 +11,7 @@ namespace Tyuiu.TelminovMS.Sprint1.Task4.V29
             Console.Title = "Спринт #1 | Выполнил: Тельминов М. С. | ИСТНб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
             Console.WriteLine("* Выполнил: Тельминов Максим Сергеевич | ИСТНб-26-1                       *");
